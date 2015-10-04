@@ -1,0 +1,6 @@
+## Version: 0.1
+## Interface: 11200
+## Title: RenewSpam
+## Author: Zerf
+## Notes: Spams rank1 renew on everyone in raid
+RenewSpam.xml

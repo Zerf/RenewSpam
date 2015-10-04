@@ -1,0 +1,3 @@
+<Bindings>
+	<Binding name="RENEWSPAM_BUFF" header="RENEWSPAM_HEADER">RenewSpam_Buff();</Binding>
+</Bindings>
